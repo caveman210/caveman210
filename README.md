@@ -23,6 +23,8 @@ Just trying out new things every day.
 
 <b>My GitHub Stats</b>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <a href="http://www.github.com/caveman210"><img src="https://github-readme-stats.vercel.app/api?username=caveman210&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="caveman210's GitHub stats" /></a>
 
 <a href="http://www.github.com/caveman210"><img src="https://github-readme-streak-stats.herokuapp.com/?user=caveman210&stroke=ffffff&background=000000&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
