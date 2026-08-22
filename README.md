@@ -5,9 +5,6 @@ Hobbyist programmer.
 --------------------
 
 College student.
-
-Nothing to exhibit as my magnum-opus.
-
 Just trying out new things every day.
 
 *   ✉️  You can contact me at [illustrio7077@gmail.com](mailto:illustrio7077@gmail.com)
